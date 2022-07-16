@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: b5a28a9727afac944bab09ddff285872
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: G_MortarAmmo34CaseClosed
+    100002: G_MortarAmmoCaseClosed-5cm
+    100004: German_Mortar_8cmCaseOpen
+    100006: German_Mortar_Round_5cm
+    100008: German_Mortar_Round_8cm
+    100010: German_MortarCase_5cmOpen
+    100012: //RootNode
+    400000: G_MortarAmmo34CaseClosed
+    400002: G_MortarAmmoCaseClosed-5cm
+    400004: German_Mortar_8cmCaseOpen
+    400006: German_Mortar_Round_5cm
+    400008: German_Mortar_Round_8cm
+    400010: German_MortarCase_5cmOpen
+    400012: //RootNode
+    2100000: No Name
+    2300000: G_MortarAmmo34CaseClosed
+    2300002: G_MortarAmmoCaseClosed-5cm
+    2300004: German_Mortar_8cmCaseOpen
+    2300006: German_Mortar_Round_5cm
+    2300008: German_Mortar_Round_8cm
+    2300010: German_MortarCase_5cmOpen
+    3300000: G_MortarAmmo34CaseClosed
+    3300002: G_MortarAmmoCaseClosed-5cm
+    3300004: German_Mortar_8cmCaseOpen
+    3300006: German_Mortar_Round_5cm
+    3300008: German_Mortar_Round_8cm
+    3300010: German_MortarCase_5cmOpen
+    4300000: German_MortarCase_5cmOpen
+    4300002: German_Mortar_8cmCaseOpen
+    4300004: G_MortarAmmoCaseClosed-5cm
+    4300006: German_Mortar_Round_5cm
+    4300008: German_Mortar_Round_8cm
+    4300010: G_MortarAmmo34CaseClosed
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.39
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
