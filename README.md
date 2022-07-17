@@ -14,8 +14,9 @@ This project developed for Game Development Unity course final project
  Game Keys:
  W - Go foward
  S - Go backwards
- D - Go Left
- A - Go Right
+ A - Go Left
+ D - Go Right
+ Space - shot
  Left Shift - Run
  1 - Gun
  2 - Grenade
