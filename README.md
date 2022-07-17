@@ -12,7 +12,7 @@ This project developed for Game Development Unity course final project
  - C#
  
  Game Keys:
- W - Go foward
+ W - Go foward \n
  S - Go backwards
  D - Go Left
  A - Go Right
