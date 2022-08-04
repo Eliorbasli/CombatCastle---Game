@@ -1,4 +1,4 @@
-# CombatCastle---Game
+# CombatCastle-Game
 my first platforer game in Unity
 
 About the Project
